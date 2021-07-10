@@ -1,0 +1,13 @@
+C:\Users\Esme Baza\source\repos\Arreglos2\Arreglos2\bin\Debug\netcoreapp3.1\Arreglos2.exe
+C:\Users\Esme Baza\source\repos\Arreglos2\Arreglos2\bin\Debug\netcoreapp3.1\Arreglos2.deps.json
+C:\Users\Esme Baza\source\repos\Arreglos2\Arreglos2\bin\Debug\netcoreapp3.1\Arreglos2.runtimeconfig.json
+C:\Users\Esme Baza\source\repos\Arreglos2\Arreglos2\bin\Debug\netcoreapp3.1\Arreglos2.runtimeconfig.dev.json
+C:\Users\Esme Baza\source\repos\Arreglos2\Arreglos2\bin\Debug\netcoreapp3.1\Arreglos2.dll
+C:\Users\Esme Baza\source\repos\Arreglos2\Arreglos2\bin\Debug\netcoreapp3.1\Arreglos2.pdb
+C:\Users\Esme Baza\source\repos\Arreglos2\Arreglos2\obj\Debug\netcoreapp3.1\Arreglos2.csproj.AssemblyReference.cache
+C:\Users\Esme Baza\source\repos\Arreglos2\Arreglos2\obj\Debug\netcoreapp3.1\Arreglos2.AssemblyInfoInputs.cache
+C:\Users\Esme Baza\source\repos\Arreglos2\Arreglos2\obj\Debug\netcoreapp3.1\Arreglos2.AssemblyInfo.cs
+C:\Users\Esme Baza\source\repos\Arreglos2\Arreglos2\obj\Debug\netcoreapp3.1\Arreglos2.csproj.CoreCompileInputs.cache
+C:\Users\Esme Baza\source\repos\Arreglos2\Arreglos2\obj\Debug\netcoreapp3.1\Arreglos2.dll
+C:\Users\Esme Baza\source\repos\Arreglos2\Arreglos2\obj\Debug\netcoreapp3.1\Arreglos2.pdb
+C:\Users\Esme Baza\source\repos\Arreglos2\Arreglos2\obj\Debug\netcoreapp3.1\Arreglos2.genruntimeconfig.cache
